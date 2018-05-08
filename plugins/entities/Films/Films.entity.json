@@ -1,0 +1,15 @@
+{
+  "info" : {
+    "title" : "Films",
+    "version" : "0.0.1"
+  },
+  "definitions" : {
+    "Films" : {
+      "required" : [ ],
+      "elementRangeIndex" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : { }
+    }
+  }
+}

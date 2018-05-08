@@ -1,0 +1,16 @@
+{
+  "Films" : {
+    "x" : 10,
+    "y" : 115,
+    "width" : 350,
+    "height" : 100,
+    "vertices" : { }
+  },
+  "Series" : {
+    "x" : 18,
+    "y" : 243,
+    "width" : 350,
+    "height" : 100,
+    "vertices" : { }
+  }
+}

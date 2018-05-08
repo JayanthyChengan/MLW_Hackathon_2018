@@ -1,0 +1,6 @@
+{
+  "role-name": "movie-admin",
+  "description": "movie admin role",
+  "role": ["movie-user"],
+  "privilege": []
+}

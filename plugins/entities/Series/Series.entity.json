@@ -1,0 +1,15 @@
+{
+  "info" : {
+    "title" : "Series",
+    "version" : "0.0.1"
+  },
+  "definitions" : {
+    "Series" : {
+      "required" : [ ],
+      "elementRangeIndex" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : { }
+    }
+  }
+}

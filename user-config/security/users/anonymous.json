@@ -1,0 +1,6 @@
+{
+  "user-name": "anonymous",
+  "description": "dhf anonymous user",
+  "password": "test",
+  "role": ["movie-user"]
+}

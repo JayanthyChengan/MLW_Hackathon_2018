@@ -1,0 +1,6 @@
+{
+  "user-name": "subscriber",
+  "description": "subscriber user",
+  "password": "test",
+  "role": ["movie-admin"]
+}
